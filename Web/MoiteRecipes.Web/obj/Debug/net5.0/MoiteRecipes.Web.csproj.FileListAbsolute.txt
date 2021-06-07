@@ -464,3 +464,5 @@ C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\MoiteReci
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\ref\MoiteRecipes.Web.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\MoiteRecipes.Web.pdb
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\MoiteRecipes.Web.genruntimeconfig.cache
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\Razor\Views\Recipes\Create.cshtml.g.cs

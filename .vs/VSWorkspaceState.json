@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MoiteRecipes.Common",
+    "\\Services",
+    "\\Tests",
+    "\\Web",
+    "\\Web\\MoiteRecipes.Web"
   ],
-  "SelectedNode": "\\MoiteRecipes.sln",
+  "SelectedNode": "\\Web\\MoiteRecipes.Web\\MoiteRecipes.Web.csproj",
   "PreviewInSolutionExplorer": false
 }
