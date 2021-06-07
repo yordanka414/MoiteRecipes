@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RFpeWKh9IuJMGx/rwkuw8Y6bRNdynzn3fT/I65gWRUj4wAIW0tCCYqwZAadvtk9lBauLdwTKri3WMl26+53MAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\MoiteRecipes.Common\\MoiteRecipes.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

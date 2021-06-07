@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web.Infrastructure\bin\Debug\netstandard2.1\MoiteRecipes.Web.Infrastructure.deps.json
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web.Infrastructure\bin\Debug\netstandard2.1\MoiteRecipes.Web.Infrastructure.dll
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web.Infrastructure\bin\Debug\netstandard2.1\MoiteRecipes.Web.Infrastructure.pdb
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web.Infrastructure\obj\Debug\netstandard2.1\MoiteRecipes.Web.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web.Infrastructure\obj\Debug\netstandard2.1\MoiteRecipes.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web.Infrastructure\obj\Debug\netstandard2.1\MoiteRecipes.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web.Infrastructure\obj\Debug\netstandard2.1\MoiteRecipes.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web.Infrastructure\obj\Debug\netstandard2.1\MoiteRecipes.Web.Infrastructure.dll
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web.Infrastructure\obj\Debug\netstandard2.1\MoiteRecipes.Web.Infrastructure.pdb

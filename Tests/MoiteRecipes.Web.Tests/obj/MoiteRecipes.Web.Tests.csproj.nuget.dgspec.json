@@ -1,0 +1,950 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Tests\\MoiteRecipes.Web.Tests\\MoiteRecipes.Web.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Common\\MoiteRecipes.Data.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Common\\MoiteRecipes.Data.Common.csproj",
+        "projectName": "MoiteRecipes.Data.Common",
+        "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Common\\MoiteRecipes.Data.Common.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Models\\MoiteRecipes.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Models\\MoiteRecipes.Data.Models.csproj",
+        "projectName": "MoiteRecipes.Data.Models",
+        "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Models\\MoiteRecipes.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Common\\MoiteRecipes.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Common\\MoiteRecipes.Data.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data\\MoiteRecipes.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data\\MoiteRecipes.Data.csproj",
+        "projectName": "MoiteRecipes.Data",
+        "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data\\MoiteRecipes.Data.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Common\\MoiteRecipes.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Common\\MoiteRecipes.Data.Common.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Models\\MoiteRecipes.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Models\\MoiteRecipes.Data.Models.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\MoiteRecipes.Common\\MoiteRecipes.Common.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\MoiteRecipes.Common\\MoiteRecipes.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\MoiteRecipes\\MoiteRecipes.Common\\MoiteRecipes.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\MoiteRecipes.Common\\MoiteRecipes.Common.csproj",
+        "projectName": "MoiteRecipes.Common",
+        "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\MoiteRecipes.Common\\MoiteRecipes.Common.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\MoiteRecipes.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Data\\MoiteRecipes.Services.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Data\\MoiteRecipes.Services.Data.csproj",
+        "projectName": "MoiteRecipes.Services.Data",
+        "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Data\\MoiteRecipes.Services.Data.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Common\\MoiteRecipes.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Common\\MoiteRecipes.Data.Common.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Models\\MoiteRecipes.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Models\\MoiteRecipes.Data.Models.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Mapping\\MoiteRecipes.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Mapping\\MoiteRecipes.Services.Mapping.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web.ViewModels\\MoiteRecipes.Web.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web.ViewModels\\MoiteRecipes.Web.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Mapping\\MoiteRecipes.Services.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Mapping\\MoiteRecipes.Services.Mapping.csproj",
+        "projectName": "MoiteRecipes.Services.Mapping",
+        "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Mapping\\MoiteRecipes.Services.Mapping.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Messaging\\MoiteRecipes.Services.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Messaging\\MoiteRecipes.Services.Messaging.csproj",
+        "projectName": "MoiteRecipes.Services.Messaging",
+        "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Messaging\\MoiteRecipes.Services.Messaging.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Messaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Sendgrid": {
+              "target": "Package",
+              "version": "[9.23.1, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services\\MoiteRecipes.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services\\MoiteRecipes.Services.csproj",
+        "projectName": "MoiteRecipes.Services",
+        "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services\\MoiteRecipes.Services.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Tests\\MoiteRecipes.Web.Tests\\MoiteRecipes.Web.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Tests\\MoiteRecipes.Web.Tests\\MoiteRecipes.Web.Tests.csproj",
+        "projectName": "MoiteRecipes.Web.Tests",
+        "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Tests\\MoiteRecipes.Web.Tests\\MoiteRecipes.Web.Tests.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Tests\\MoiteRecipes.Web.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web\\MoiteRecipes.Web.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web\\MoiteRecipes.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.0.0-alpha07, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[90.0.4430.2400, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web.Infrastructure\\MoiteRecipes.Web.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web.Infrastructure\\MoiteRecipes.Web.Infrastructure.csproj",
+        "projectName": "MoiteRecipes.Web.Infrastructure",
+        "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web.Infrastructure\\MoiteRecipes.Web.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web.ViewModels\\MoiteRecipes.Web.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web.ViewModels\\MoiteRecipes.Web.ViewModels.csproj",
+        "projectName": "MoiteRecipes.Web.ViewModels",
+        "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web.ViewModels\\MoiteRecipes.Web.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Models\\MoiteRecipes.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Models\\MoiteRecipes.Data.Models.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Mapping\\MoiteRecipes.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Mapping\\MoiteRecipes.Services.Mapping.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web\\MoiteRecipes.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web\\MoiteRecipes.Web.csproj",
+        "projectName": "MoiteRecipes.Web",
+        "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web\\MoiteRecipes.Web.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Models\\MoiteRecipes.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Models\\MoiteRecipes.Data.Models.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data\\MoiteRecipes.Data.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data\\MoiteRecipes.Data.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\MoiteRecipes.Common\\MoiteRecipes.Common.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\MoiteRecipes.Common\\MoiteRecipes.Common.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Data\\MoiteRecipes.Services.Data.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Data\\MoiteRecipes.Services.Data.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Mapping\\MoiteRecipes.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Mapping\\MoiteRecipes.Services.Mapping.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Messaging\\MoiteRecipes.Services.Messaging.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Messaging\\MoiteRecipes.Services.Messaging.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services\\MoiteRecipes.Services.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services\\MoiteRecipes.Services.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web.Infrastructure\\MoiteRecipes.Web.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web.Infrastructure\\MoiteRecipes.Web.Infrastructure.csproj"
+              },
+              "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web.ViewModels\\MoiteRecipes.Web.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web.ViewModels\\MoiteRecipes.Web.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "BuildBundlerMinifier": {
+              "target": "Package",
+              "version": "[3.2.449, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.Web.LibraryManager.Build": {
+              "target": "Package",
+              "version": "[2.1.113, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

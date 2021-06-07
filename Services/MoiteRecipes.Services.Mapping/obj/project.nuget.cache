@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BuXbCDvqlgM5Q0VpetDsRyuMYav6XeUZGlKhs0arvsHVr8qI7jsMWbVmo4G/FOkeP5JVXi+u+AQzKSQTg0/Nyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Mapping\\MoiteRecipes.Services.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

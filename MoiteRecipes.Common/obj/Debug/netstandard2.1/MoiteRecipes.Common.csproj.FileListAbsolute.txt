@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\MoiteRecipes\MoiteRecipes.Common\bin\Debug\netstandard2.1\MoiteRecipes.Common.deps.json
+C:\Users\HP\Desktop\MoiteRecipes\MoiteRecipes.Common\bin\Debug\netstandard2.1\MoiteRecipes.Common.dll
+C:\Users\HP\Desktop\MoiteRecipes\MoiteRecipes.Common\bin\Debug\netstandard2.1\MoiteRecipes.Common.pdb
+C:\Users\HP\Desktop\MoiteRecipes\MoiteRecipes.Common\obj\Debug\netstandard2.1\MoiteRecipes.Common.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\MoiteRecipes\MoiteRecipes.Common\obj\Debug\netstandard2.1\MoiteRecipes.Common.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MoiteRecipes\MoiteRecipes.Common\obj\Debug\netstandard2.1\MoiteRecipes.Common.AssemblyInfo.cs
+C:\Users\HP\Desktop\MoiteRecipes\MoiteRecipes.Common\obj\Debug\netstandard2.1\MoiteRecipes.Common.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MoiteRecipes\MoiteRecipes.Common\obj\Debug\netstandard2.1\MoiteRecipes.Common.dll
+C:\Users\HP\Desktop\MoiteRecipes\MoiteRecipes.Common\obj\Debug\netstandard2.1\MoiteRecipes.Common.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JUWoHAdyxcIOHmh2ycIOM9XrIZSvX237qbgvvyeVGEdumn7TNUO8FgRIhaQTcdsfmXSabh9LMq/g83V63yZjeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web.Infrastructure\\MoiteRecipes.Web.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}
