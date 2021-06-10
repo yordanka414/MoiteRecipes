@@ -25,6 +25,8 @@
 
         public DbSet<Setting> Settings { get; set; }
 
+        public DbSet<Vote> Votes { get; set; }
+
         public DbSet<Recipe> Recipes { get; set; }
 
         public DbSet<Category> Categories { get; set; }
