@@ -21,3 +21,7 @@ C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data\obj\Debug\net5.0\MoiteRe
 C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data\obj\Debug\net5.0\ref\MoiteRecipes.Data.dll
 C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data\obj\Debug\net5.0\MoiteRecipes.Data.pdb
 C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data\obj\Debug\net5.0\MoiteRecipes.Data.genruntimeconfig.cache
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data\bin\Debug\net5.0\MoiteRecipes.Services.Mapping.dll
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data\bin\Debug\net5.0\MoiteRecipes.Web.ViewModels.dll
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data\bin\Debug\net5.0\MoiteRecipes.Services.Mapping.pdb
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data\bin\Debug\net5.0\MoiteRecipes.Web.ViewModels.pdb

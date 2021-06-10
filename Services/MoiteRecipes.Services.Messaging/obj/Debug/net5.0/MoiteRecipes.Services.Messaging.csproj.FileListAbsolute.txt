@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services.Messaging\bin\Debug\net5.0\MoiteRecipes.Services.Messaging.deps.json
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services.Messaging\bin\Debug\net5.0\MoiteRecipes.Services.Messaging.dll
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services.Messaging\bin\Debug\net5.0\ref\MoiteRecipes.Services.Messaging.dll
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services.Messaging\bin\Debug\net5.0\MoiteRecipes.Services.Messaging.pdb
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services.Messaging\obj\Debug\net5.0\MoiteRecipes.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services.Messaging\obj\Debug\net5.0\MoiteRecipes.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services.Messaging\obj\Debug\net5.0\MoiteRecipes.Services.Messaging.AssemblyInfo.cs
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services.Messaging\obj\Debug\net5.0\MoiteRecipes.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services.Messaging\obj\Debug\net5.0\MoiteRecipes.Services.Messaging.dll
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services.Messaging\obj\Debug\net5.0\ref\MoiteRecipes.Services.Messaging.dll
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services.Messaging\obj\Debug\net5.0\MoiteRecipes.Services.Messaging.pdb
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services.Messaging\obj\Debug\net5.0\MoiteRecipes.Services.Messaging.csproj.AssemblyReference.cache

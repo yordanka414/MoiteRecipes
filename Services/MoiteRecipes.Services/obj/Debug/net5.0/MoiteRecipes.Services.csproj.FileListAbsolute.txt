@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\bin\Debug\net5.0\MoiteRecipes.Services.deps.json
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\bin\Debug\net5.0\MoiteRecipes.Services.dll
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\bin\Debug\net5.0\ref\MoiteRecipes.Services.dll
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\bin\Debug\net5.0\MoiteRecipes.Services.pdb
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\net5.0\MoiteRecipes.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\net5.0\MoiteRecipes.Services.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\net5.0\MoiteRecipes.Services.AssemblyInfo.cs
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\net5.0\MoiteRecipes.Services.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\net5.0\MoiteRecipes.Services.dll
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\net5.0\ref\MoiteRecipes.Services.dll
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\net5.0\MoiteRecipes.Services.pdb
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\net5.0\MoiteRecipes.Services.csproj.AssemblyReference.cache

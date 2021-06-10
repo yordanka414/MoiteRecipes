@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data.Models\bin\Debug\net5.0\MoiteRecipes.Data.Models.deps.json
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data.Models\bin\Debug\net5.0\MoiteRecipes.Data.Models.dll
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data.Models\bin\Debug\net5.0\ref\MoiteRecipes.Data.Models.dll
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data.Models\bin\Debug\net5.0\MoiteRecipes.Data.Models.pdb
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data.Models\bin\Debug\net5.0\MoiteRecipes.Data.Common.dll
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data.Models\bin\Debug\net5.0\MoiteRecipes.Data.Common.pdb
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data.Models\obj\Debug\net5.0\MoiteRecipes.Data.Models.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data.Models\obj\Debug\net5.0\MoiteRecipes.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data.Models\obj\Debug\net5.0\MoiteRecipes.Data.Models.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data.Models\obj\Debug\net5.0\MoiteRecipes.Data.Models.AssemblyInfo.cs
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data.Models\obj\Debug\net5.0\MoiteRecipes.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data.Models\obj\Debug\net5.0\MoiteRecipes.Data.Models.csproj.CopyComplete
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data.Models\obj\Debug\net5.0\MoiteRecipes.Data.Models.dll
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data.Models\obj\Debug\net5.0\ref\MoiteRecipes.Data.Models.dll
+C:\Users\HP\Desktop\MoiteRecipes\Data\MoiteRecipes.Data.Models\obj\Debug\net5.0\MoiteRecipes.Data.Models.pdb

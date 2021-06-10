@@ -9,7 +9,6 @@
     using MoiteRecipes.Web.ViewModels;
     using MoiteRecipes.Web.ViewModels.Home;
 
-
     public class HomeController : BaseController
     {
         private readonly IGetCountsService getCountsService;

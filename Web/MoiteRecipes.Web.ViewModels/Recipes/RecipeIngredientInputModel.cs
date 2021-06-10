@@ -2,7 +2,11 @@
 {
     using System.ComponentModel.DataAnnotations;
 
-    public class RecipeIngredientInputModel
+    using MoiteRecipes.Data.Models;
+
+    using MoiteRecipes.Services.Mapping;
+
+    public class RecipeIngredientInputModel : IMapFrom<RecipeIngredient>
     {
         [Required]
         [MinLength(3)]

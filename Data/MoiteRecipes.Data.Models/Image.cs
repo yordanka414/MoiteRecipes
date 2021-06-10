@@ -20,6 +20,7 @@
         public string Extension { get; set; }
 
         //// The contents of the image is in the file system
+        public string RemoteImageUrl { get; set; }
 
         public string AddedByUserId { get; set; }
 

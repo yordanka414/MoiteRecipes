@@ -12,8 +12,22 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MoiteRecipes.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\HP\\Desktop\\MoiteRecipes\\MoiteRecipes.Common", "MoiteRecipes.Common.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MoiteRecipes.Data.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Common", "MoiteRecipes.Data.Common.csproj", "0")]
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MoiteRecipes.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data", "MoiteRecipes.Data.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MoiteRecipes.Data.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Data\\MoiteRecipes.Data.Models", "MoiteRecipes.Data.Models.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MoiteRecipes.Services.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" +
+    "", "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Data", "MoiteRecipes.Services.Data.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MoiteRecipes.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services", "MoiteRecipes.Services.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MoiteRecipes.Services.Mapping, Version=1.0.0.0, Culture=neutral, PublicKeyToken=n" +
+    "ull", "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Mapping", "MoiteRecipes.Services.Mapping.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MoiteRecipes.Services.Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken" +
+    "=null", "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Services\\MoiteRecipes.Services.Messaging", "MoiteRecipes.Services.Messaging.csproj", "0")]
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MoiteRecipes.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web", "MoiteRecipes.Web.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MoiteRecipes.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken" +
+    "=null", "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web.Infrastructure", "MoiteRecipes.Web.Infrastructure.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MoiteRecipes.Web.ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=nul" +
+    "l", "C:\\Users\\HP\\Desktop\\MoiteRecipes\\Web\\MoiteRecipes.Web.ViewModels", "MoiteRecipes.Web.ViewModels.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoiteRecipes.Web.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

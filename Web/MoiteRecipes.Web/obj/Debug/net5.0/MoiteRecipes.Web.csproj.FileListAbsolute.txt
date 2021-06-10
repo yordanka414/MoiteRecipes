@@ -43,7 +43,6 @@ C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\Micr
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
-C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
@@ -123,7 +122,6 @@ C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\Micr
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
-C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
@@ -181,7 +179,6 @@ C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\Syst
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
-C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\System.IO.Pipes.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\refs\System.Linq.dll
@@ -308,6 +305,7 @@ C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\Microsoft
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
@@ -433,7 +431,6 @@ C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\MoiteReci
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\MoiteRecipes.Web.AssemblyInfoInputs.cache
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\MoiteRecipes.Web.AssemblyInfo.cs
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\MoiteRecipes.Web.csproj.CoreCompileInputs.cache
-C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\MoiteRecipes.Web.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\MoiteRecipes.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\MoiteRecipes.Web.RazorAssemblyInfo.cache
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\MoiteRecipes.Web.RazorAssemblyInfo.cs
@@ -449,11 +446,14 @@ C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\Razor\Are
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\Razor\Views\Recipes\All.cshtml.g.cs
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\Razor\Views\Recipes\Create.cshtml.g.cs
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\Razor\Views\Settings\Index.cshtml.g.cs
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\Razor\Views\Shared\_PagingPartial.cshtml.g.cs
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\MoiteRecipes.Web.RazorTargetAssemblyInfo.cache
@@ -464,5 +464,8 @@ C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\MoiteReci
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\ref\MoiteRecipes.Web.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\MoiteRecipes.Web.pdb
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\MoiteRecipes.Web.genruntimeconfig.cache
-C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\Razor\Views\Recipes\Create.cshtml.g.cs
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\MoiteRecipes.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web\obj\Debug\net5.0\Razor\Views\Recipes\ById.cshtml.g.cs

@@ -1,10 +1,11 @@
-﻿using MoiteRecipes.Data.Common.Models;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace MoiteRecipes.Data.Models
+﻿namespace MoiteRecipes.Data.Models
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Text;
+
+    using MoiteRecipes.Data.Common.Models;
+
     public class Recipe : BaseDeletableModel<int>
     {
         public Recipe()

@@ -6,3 +6,4 @@ C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\netsta
 C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\netstandard2.1\MoiteRecipes.Services.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\netstandard2.1\MoiteRecipes.Services.dll
 C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\netstandard2.1\MoiteRecipes.Services.pdb
+C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\netstandard2.1\MoiteRecipes.Services.csproj.AssemblyReference.cache
