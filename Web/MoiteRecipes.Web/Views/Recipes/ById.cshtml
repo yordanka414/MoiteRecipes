@@ -9,15 +9,18 @@
         <div class="col-xl-9 col-12">
             <ul class="entry-meta">
                 <li class="single-meta">
-                    <i class="far fa-calendar-alt"></i>@Model.CreatedOn.ToString("d")
+                    <i class="far fa-calendar-alt"></i> @Model.CreatedOn.ToString("d")
                 </li>
                 <li class="single-meta">
-
-                    <i class="fas fa-user"></i>by
-                    <span>
-                        @Model.AddedByUserUserName
-                    </span>
-
+                    <i class="fas fa-user"></i> by
+                    @if (string.IsNullOrWhiteSpace(Model.AddedByUserUserName))
+                    {
+                        <a href="@Model.OriginalUrl" target="_blank"> recepti.gotvach.bg </a>
+                    }
+                    else
+                    {
+                        <span> @Model.AddedByUserUserName</span>
+                    }
                 </li>
                 <li class="single-meta">
                     <ul class="item-rating">
@@ -26,9 +29,10 @@
                         <li class="star-fill"><i class="fas fa-star"></i></li>
                         <li class="star-fill"><i class="fas fa-star"></i></li>
                         <li class="star-empty"><i class="fas fa-star"></i></li>
-                        <li><span>5<span> / 5</span></span> </li>
+                        <li><span> 5 <span> / 5</span></span> </li>
                     </ul>
                 </li>
+
             </ul>
         </div>
 
@@ -107,7 +111,7 @@
     <div class="making-elements-wrap">
         <div class="row">
             <div class="col-md-6 d-inline-block text-break">
-                <p class="item-description "  >
+                <p class="item-description ">
                     @Model.Instructions
                 </p>
             </div>

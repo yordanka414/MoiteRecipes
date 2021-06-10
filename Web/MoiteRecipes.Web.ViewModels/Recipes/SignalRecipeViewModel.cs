@@ -23,6 +23,8 @@
 
         public string ImageUrl { get; set; }
 
+        public string OriginalUrl { get; set; }
+
         public string Instructions { get; set; }
 
         public TimeSpan PreparationTime { get; set; }
