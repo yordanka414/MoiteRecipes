@@ -53,7 +53,10 @@
                     }).AddRazorRuntimeCompilation();
             services.AddRazorPages();
             services.AddDatabaseDeveloperPageExceptionFilter();
-
+            services.AddAntiforgery(option =>
+            {
+                option.HeaderName = "X-CSRF-TOKEN";
+            });
             services.AddSingleton(this.configuration);
 
             // Data repositories

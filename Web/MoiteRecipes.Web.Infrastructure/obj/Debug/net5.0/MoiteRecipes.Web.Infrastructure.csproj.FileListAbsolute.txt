@@ -9,4 +9,3 @@ C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web.Infrastructure\obj\Debug\n
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web.Infrastructure\obj\Debug\net5.0\MoiteRecipes.Web.Infrastructure.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web.Infrastructure\obj\Debug\net5.0\ref\MoiteRecipes.Web.Infrastructure.dll
 C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web.Infrastructure\obj\Debug\net5.0\MoiteRecipes.Web.Infrastructure.pdb
-C:\Users\HP\Desktop\MoiteRecipes\Web\MoiteRecipes.Web.Infrastructure\obj\Debug\net5.0\MoiteRecipes.Web.Infrastructure.csproj.AssemblyReference.cache

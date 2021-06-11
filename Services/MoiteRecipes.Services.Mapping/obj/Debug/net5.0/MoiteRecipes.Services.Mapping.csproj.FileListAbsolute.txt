@@ -9,4 +9,3 @@ C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services.Mapping\obj\Debu
 C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services.Mapping\obj\Debug\net5.0\MoiteRecipes.Services.Mapping.dll
 C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services.Mapping\obj\Debug\net5.0\ref\MoiteRecipes.Services.Mapping.dll
 C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services.Mapping\obj\Debug\net5.0\MoiteRecipes.Services.Mapping.pdb
-C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services.Mapping\obj\Debug\net5.0\MoiteRecipes.Services.Mapping.csproj.AssemblyReference.cache

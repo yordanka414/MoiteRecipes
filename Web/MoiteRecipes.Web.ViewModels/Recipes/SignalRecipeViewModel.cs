@@ -13,6 +13,8 @@
 
     public class SignalRecipeViewModel : IMapFrom<Recipe>, IHaveCustomMappings
     {
+        public int Id { get; set; }
+
         public string Name { get; set; }
 
         public string CategoryName { get; set; }
@@ -35,16 +37,20 @@
 
         public int CategoryRecipesCount { get; set; }
 
+        public double AvarageVotes { get; set; }
+
         public ICollection<RecipeIngredientInputModel> Ingredients { get; set; }
 
         public void CreateMappings(IProfileExpression configuration)
         {
             configuration.CreateMap<Recipe, SignalRecipeViewModel>()
-               .ForMember(x => x.ImageUrl, opt =>
-                   opt.MapFrom(x =>
-                       x.Images.FirstOrDefault().RemoteImageUrl != null ?
-                       x.Images.FirstOrDefault().RemoteImageUrl :
-                       "/images/recipes/" + x.Images.FirstOrDefault().Id + "." + x.Images.FirstOrDefault().Extension));
+                .ForMember(x => x.AvarageVotes, opt =>
+                 opt.MapFrom(x => x.Votes.Count() == 0 ? 0 : x.Votes.Average(x => x.Value)))
+                .ForMember(x => x.ImageUrl, opt =>
+                    opt.MapFrom(x =>
+                        x.Images.FirstOrDefault().RemoteImageUrl != null ?
+                        x.Images.FirstOrDefault().RemoteImageUrl :
+                        "/images/recipes/" + x.Images.FirstOrDefault().Id + "." + x.Images.FirstOrDefault().Extension));
         }
     }
 }

@@ -441,6 +441,37 @@ namespace MoiteRecipes.Data.Migrations
                     b.ToTable("Settings");
                 });
 
+            modelBuilder.Entity("MoiteRecipes.Data.Models.Vote", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<DateTime>("CreatedOn")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime?>("ModifiedOn")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("RecipeId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("UserId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<byte>("Value")
+                        .HasColumnType("tinyint");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("RecipeId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Votes");
+                });
+
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {
                     b.HasOne("MoiteRecipes.Data.Models.ApplicationRole", null)
@@ -545,6 +576,23 @@ namespace MoiteRecipes.Data.Migrations
                     b.Navigation("Recipe");
                 });
 
+            modelBuilder.Entity("MoiteRecipes.Data.Models.Vote", b =>
+                {
+                    b.HasOne("MoiteRecipes.Data.Models.Recipe", "Recipe")
+                        .WithMany("Votes")
+                        .HasForeignKey("RecipeId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("MoiteRecipes.Data.Models.ApplicationUser", "User")
+                        .WithMany("Votes")
+                        .HasForeignKey("UserId");
+
+                    b.Navigation("Recipe");
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("MoiteRecipes.Data.Models.ApplicationUser", b =>
                 {
                     b.Navigation("Claims");
@@ -552,6 +600,8 @@ namespace MoiteRecipes.Data.Migrations
                     b.Navigation("Logins");
 
                     b.Navigation("Roles");
+
+                    b.Navigation("Votes");
                 });
 
             modelBuilder.Entity("MoiteRecipes.Data.Models.Category", b =>
@@ -569,6 +619,8 @@ namespace MoiteRecipes.Data.Migrations
                     b.Navigation("Images");
 
                     b.Navigation("Ingredients");
+
+                    b.Navigation("Votes");
                 });
 #pragma warning restore 612, 618
         }

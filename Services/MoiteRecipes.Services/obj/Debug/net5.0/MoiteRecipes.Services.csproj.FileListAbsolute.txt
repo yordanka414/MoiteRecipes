@@ -9,4 +9,3 @@ C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\net5.0
 C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\net5.0\MoiteRecipes.Services.dll
 C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\net5.0\ref\MoiteRecipes.Services.dll
 C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\net5.0\MoiteRecipes.Services.pdb
-C:\Users\HP\Desktop\MoiteRecipes\Services\MoiteRecipes.Services\obj\Debug\net5.0\MoiteRecipes.Services.csproj.AssemblyReference.cache
